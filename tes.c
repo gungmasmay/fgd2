@@ -7,5 +7,7 @@ int main () {
     printf ("ini tes lagi");   
     scanf ("%d", &tes);
     printf ("test tes lagi %d\n",tes);
+    printf ("test tes lagi");
     return 0;
+
 }
